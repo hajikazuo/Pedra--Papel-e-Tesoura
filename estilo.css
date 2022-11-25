@@ -69,7 +69,7 @@ ul#jogador-escolha li a img, ul#computador-escolha li a img {
    text-align: left;
 }
 
-#computador-nome {
+#computador-nome, #computador-foto {
    text-align: right;
 }
 
@@ -91,6 +91,4 @@ ul#jogador-escolha li a img, ul#computador-escolha li a img {
     padding: 20px;
 }
 
-#jogador-foto, #computador-foto {
-    display: inline;
-}
+
